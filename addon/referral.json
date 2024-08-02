@@ -1,5 +1,6 @@
 {
     "topupmas": "https://topupmass.olshopku.com/digital/246817",
     "rahmandigital": "https://rahmanid.olshopku.com/digital/297297",
-    "tester": ["www.tester.com", "www.Link.com"]
+    "tester": ["www.tester.com", "www.Link.com"],
+    "demo": ["www.tester.com", "#"]
 }
