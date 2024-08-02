@@ -1,5 +1,5 @@
 {
-    "topupmas": "https://topupmass.olshopku.com/digital/246817",
+    "topupmas": ["https://topupmasapp.olshopku.com/digital/246817", "https://play.google.com/store/apps/details?id=com.topupmasapp"],
     "rahmandigital": "https://rahmanid.olshopku.com/digital/297297",
     "tester": ["www.tester.com", "www.Link.com"],
     "demo": ["www.tester.com", "#"]
