@@ -1,4 +1,12 @@
 {
-    "topupmas": {
-    }
+    "freefire": [
+        {
+            "id": 467559,
+            "nama": "Diamond"
+        },
+        {
+            "id": 475362,
+            "nama": "Membership"
+        }
+    ]
 }
