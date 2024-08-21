@@ -20,6 +20,12 @@
             "nama": "Membership"
         }
     ],
+    "tokenpln": [
+        {
+            "id": 582213,
+            "nama": "Pilih Produk"
+        }
+    ],
     "dana": [
         {
             "id": 580341,
