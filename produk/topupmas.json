@@ -26,6 +26,16 @@
             "nama": "Pilih Produk"
         }
     ],
+    "maxim": [
+        {
+            "id": 489544,
+            "nama": "Customer"
+        },
+        {
+            "id": 489550,
+            "nama": "Driver"
+        }
+    ],
     "tokenpln": [
         {
             "id": 469675,
