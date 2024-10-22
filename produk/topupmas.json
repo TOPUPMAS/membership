@@ -32,6 +32,18 @@
             "nama": "Pilih Produk"
         }
     ],
+    "gopay": [
+        {
+            "id": 480316,
+            "nama": "Customer",
+            "key": "gopay"
+        },
+        {
+            "id": 480317,
+            "nama": "Driver",
+            "key": "gopay-driver"
+        }
+    ],
     "maxim": [
         {
             "id": 489544,
