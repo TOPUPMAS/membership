@@ -1,0 +1,15 @@
+{
+    "image": "yes",
+    "gopay": [
+        {
+            "id": 618556,
+            "nama": "Customer",
+            "key": "gopay"
+        },
+        {
+            "id": 480317,
+            "nama": "Driver",
+            "key": "gopay-driver"
+        }
+    ]
+}
