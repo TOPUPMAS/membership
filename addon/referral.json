@@ -1,9 +1,10 @@
 {
-    "topupmas": ["https://topupmas.com/digital/246817", "https://topupmas.com/download"],
+    "topupmas": ["https://topupmas.com/digital/246817", "https://play.google.com/store/apps/details?id=com.topupmasmobile"],
     "rahmandigital": ["https://rahmanid.olshopku.com/digital/297297", "https://play.google.com/store/apps/details?id=com.rahmanid"],
     "muliramli": ["https://muliramli.olshopku.com/digital/300522", "#"],
     "vaninpay": ["https://vaninpay.web.id/digital/320340", "http://vaninpay.web.id/download"],
     "buypulsamobile": ["https://buypulsacuanmax.kiosonline.net/digital/312761", "#"],
+    "aypayment": ["www.tester.com", "https://play.google.com/store/apps/details?id=com.aypay"],
     "tester": ["www.tester.com", "www.Link.com"],
     "demo": ["www.tester.com", "#"]
 }
