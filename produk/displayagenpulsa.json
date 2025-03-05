@@ -1,0 +1,10 @@
+{
+  "image": "yes",
+  "gopay": [
+        {
+            "id": 615780,
+            "nama": "Customer",
+            "key": "gopay"
+        }
+    ]
+}
